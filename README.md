@@ -101,6 +101,11 @@ printer.PrintInvoice(invoice, 80); // 80mm
 - [ ] Accept different image formats
 - [ ] Multi-Language support
 
+## TODO
+
+- [ ] Accept different image formats
+- [ ] Multi-Language support
+
 ## Developer's Information
 
 This library is developed and maintained by [Juan José Zeledón Benavides](https://www.linkedin.com/in/juanjzb/)
